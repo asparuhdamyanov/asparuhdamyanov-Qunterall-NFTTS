@@ -4,6 +4,9 @@ Each mint results in increasing the price with 1%(e.g. after 100 mints price is 
 Metadata can be viewed and NFTs can be sold and traded on OpenSea.
 The NFT is a Utility Pass and has no custom build rarity or placeholder.
 
+Hosted on a free hosting website:
+https://metacowboys.000webhostapp.com/
+
 Currently hosted on Rinkeby network.
 To view assets your NFT on Test Nets: (https://testnets.opensea.io/)
 
